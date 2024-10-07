@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$mTuTnWjkgnNwr8e2xiBhO.t0uZthY4R3ra.pWQwiEd3Ey4Q9UQVZq",
+      "tel": "01205313232",
+      "id": 1
+    },
+    {
+      "email": "mostafaflous@gmail.com",
+      "password": "$2a$10$RyFPlRqjr6A.5bDHIfeqw.DL1wbtHOYV6STlhyD3QrcDzE962jdP.",
+      "tel": "01012312737",
+      "id": 2
+    }
+  ]
+}
